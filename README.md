@@ -65,7 +65,7 @@ advanceClock -> It will increase cycles.
 Dump -> It will print Output of cycles 
 
 Please follow below steps to run code.
-1. Execute make file to create executable files
+1. Execute make file to create executable files(Assuming you are in Scoreboard folder)
 2.Add input file in bin folder.
 3. Execute following commands
    1.For INORDER Execution
